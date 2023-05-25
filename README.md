@@ -8,7 +8,6 @@
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organizaçãoão e compartilhamento dos meus projets desenvolvido
 
-### Você entra em contato comigo 📧
-
+### Você entra em contato comigo 
 gabriel.benito@escola.pr.gov.br
 @benitoplug
