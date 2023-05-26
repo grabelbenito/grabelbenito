@@ -11,4 +11,4 @@ gabriel.benito@escola.pr.gov.br
 @benitoplug
 
 
-https://media.tenor.com/XdpY9mk7348AAAAC/bom-dia-valtatui.gif
+![](https://media.tenor.com/XdpY9mk7348AAAAC/bom-dia-valtatui.gif
